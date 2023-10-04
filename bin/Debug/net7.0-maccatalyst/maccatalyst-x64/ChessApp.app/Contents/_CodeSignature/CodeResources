@@ -32,6 +32,30 @@
 		<data>
 		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
 		</data>
+		<key>Resources/bishop_b.png</key>
+		<data>
+		icdExarUm0v7kvXyNEDYOJ7zEdo=
+		</data>
+		<key>Resources/bishop_b@2x.png</key>
+		<data>
+		hiTI+4hvfbLBeUn6lpgzu9yBP5o=
+		</data>
+		<key>Resources/bishop_b@3x.png</key>
+		<data>
+		HmYuwUzXpJTlz8yodu3KN4jnOZ4=
+		</data>
+		<key>Resources/bishop_w.png</key>
+		<data>
+		OWqhgpoCTpWaqtQFjW6h4BhY4qM=
+		</data>
+		<key>Resources/bishop_w@2x.png</key>
+		<data>
+		gyhW1hGaKhMlZOkVLPkxcFe5nIc=
+		</data>
+		<key>Resources/bishop_w@3x.png</key>
+		<data>
+		BeUEfmV/QkWic4+Zrl33GzThofU=
+		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
 		qdYiPSemWrpOK00y89PG6ukhmkA=
@@ -44,6 +68,126 @@
 		<data>
 		AgG9OaBqGlLlSsDbnE/6b1bb0xU=
 		</data>
+		<key>Resources/king_b.png</key>
+		<data>
+		PXfVr6HQvuumufLFp8viQ8JpvpM=
+		</data>
+		<key>Resources/king_b@2x.png</key>
+		<data>
+		8ZNjnkojayIT8nw5z4X503R4RSE=
+		</data>
+		<key>Resources/king_b@3x.png</key>
+		<data>
+		2h5cVhVP5SdP9IUnM+3wVHokDlY=
+		</data>
+		<key>Resources/king_w.png</key>
+		<data>
+		47OQuChtMVSnA5ziQqw6iYrslKA=
+		</data>
+		<key>Resources/king_w@2x.png</key>
+		<data>
+		OIR6me2NFr0Qhgy0bAJE3XIFArs=
+		</data>
+		<key>Resources/king_w@3x.png</key>
+		<data>
+		ULEUFI6UMYjEIXnsvIXzXF2ELm4=
+		</data>
+		<key>Resources/knight_b.png</key>
+		<data>
+		DYXlWTRhN6XMpAvdPPnGpkoGrOs=
+		</data>
+		<key>Resources/knight_b@2x.png</key>
+		<data>
+		3pxDKtLH88bYJtHL4QmDPLqFJNg=
+		</data>
+		<key>Resources/knight_b@3x.png</key>
+		<data>
+		gn1h/azFbsrVyUaRBIJehbgo+As=
+		</data>
+		<key>Resources/knight_w.png</key>
+		<data>
+		3qxZDndLDYg+gcsDqu6QuRg5AH8=
+		</data>
+		<key>Resources/knight_w@2x.png</key>
+		<data>
+		p6Q5rsPw+Qx7dOlMaDjjUheQBnM=
+		</data>
+		<key>Resources/knight_w@3x.png</key>
+		<data>
+		0Yh1LoxBHNtZFEbYJNdKs7vxBLE=
+		</data>
+		<key>Resources/pawn_b.png</key>
+		<data>
+		dUgWkWTaQz6dP1gYTpzz2A99GuM=
+		</data>
+		<key>Resources/pawn_b@2x.png</key>
+		<data>
+		MpMhz/AWp2ygClfkZ4d4dDG8T+s=
+		</data>
+		<key>Resources/pawn_b@3x.png</key>
+		<data>
+		tZegne9VLLyGEQVUxwrUa9Gzh7I=
+		</data>
+		<key>Resources/pawn_w.png</key>
+		<data>
+		g6dT1dLGiF8RHAArCUwT8jGuxxw=
+		</data>
+		<key>Resources/pawn_w@2x.png</key>
+		<data>
+		0wnz+arSHjH02i4l5sMeQD7cdb4=
+		</data>
+		<key>Resources/pawn_w@3x.png</key>
+		<data>
+		neEfVyVMA3l4TOWlixIwSXWe1+4=
+		</data>
+		<key>Resources/queen_b.png</key>
+		<data>
+		3vY3SYiEw8JUpojH46CkUFZj+wg=
+		</data>
+		<key>Resources/queen_b@2x.png</key>
+		<data>
+		xtg5Ht74ThNOtykKI/Jel1wI1Go=
+		</data>
+		<key>Resources/queen_b@3x.png</key>
+		<data>
+		7BtE4TG+cZrP73ZP9jeeQBv4Iuk=
+		</data>
+		<key>Resources/queen_w.png</key>
+		<data>
+		VZsevjMc9A0428IMFIIhEUOOvgU=
+		</data>
+		<key>Resources/queen_w@2x.png</key>
+		<data>
+		B/Y26xUdNF7HmWF0w95TY0G1b+I=
+		</data>
+		<key>Resources/queen_w@3x.png</key>
+		<data>
+		QuG74vZ54rviNloVnmyHzDsYIhA=
+		</data>
+		<key>Resources/rook_b.png</key>
+		<data>
+		fdsifSsp4d6WVMgqeOheWeb2wYY=
+		</data>
+		<key>Resources/rook_b@2x.png</key>
+		<data>
+		NUfyrX7F3a4W5LR8OwtgiHDdlcA=
+		</data>
+		<key>Resources/rook_b@3x.png</key>
+		<data>
+		1zQnmuWw6KppNIsmGAQzruzOiQM=
+		</data>
+		<key>Resources/rook_w.png</key>
+		<data>
+		OIv2G0QiT/rUh0L/vT2AlyWEuIE=
+		</data>
+		<key>Resources/rook_w@2x.png</key>
+		<data>
+		AOAHFaVJX0QMikVGMhXqitkWqbo=
+		</data>
+		<key>Resources/rook_w@3x.png</key>
+		<data>
+		o2xgRi1KhSeDaJxaqQzGU/PBS+Y=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -51,14 +195,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			arblv6TpMTKH4gu7SDcV1lSA5UTXXLgf18BbJATOfTw=
+			6FsIIXjRSzrSs+7TJS3EbOqsOq2I9hXiPTF/ZST72zA=
 			</data>
 		</dict>
 		<key>MonoBundle/ChessApp.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AQVERucRo+YSyRihLsz8jtLqgqK1PCh9yoNm8gXNTHg=
+			oplpggfffse7siE5xt7QlKF8NVOuqD8WVvSar4ENApQ=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -206,6 +350,20 @@
 			<key>hash2</key>
 			<data>
 			9ObPR5vEsFLcUP2gkrybO99WDbk0dJN6pucPDZEn4uA=
+			</data>
+		</dict>
+		<key>MonoBundle/Orbit.Engine.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AGeKmdQ0dSP/9OPCmMhQagi9r1+kE0OCRDYoty7f//M=
+			</data>
+		</dict>
+		<key>MonoBundle/Orbit.Engine.pdb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GHtZrUiwCw0F3H0k9Ned4Ckz3ruRDejetun7+zDIAOk=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1461,6 +1619,48 @@
 			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
 			</data>
 		</dict>
+		<key>Resources/bishop_b.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s/B/WUhquLCIeIysWEV7rqQ6A4OTM1K8treE7WSdpsU=
+			</data>
+		</dict>
+		<key>Resources/bishop_b@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1SjKgaoiH4aXKrzW68kkd6kPyj0NvVHvp6OYBb9ucDU=
+			</data>
+		</dict>
+		<key>Resources/bishop_b@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HEnOYj4YgCnWQOi0B2JwZ5nkkioJN8FvdMCFLdSdA4U=
+			</data>
+		</dict>
+		<key>Resources/bishop_w.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CdMAzaZ4/LotTKe5ZVKOAzSzyABHtUopglR/PQjc9Kg=
+			</data>
+		</dict>
+		<key>Resources/bishop_w@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rbatEL0aMG0fqVmX0he2ETHzBfWQNB07Umwlf5FjyXA=
+			</data>
+		</dict>
+		<key>Resources/bishop_w@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VvlulMYtzJUM6/XS5JetCkLF9NZ3quAh3jU2xjYQk1Q=
+			</data>
+		</dict>
 		<key>Resources/dotnet_bot.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1480,6 +1680,216 @@
 			<key>hash2</key>
 			<data>
 			06Dw48r2qORp1zVQzu1FMEqEQpN18taU/bp0JACYc40=
+			</data>
+		</dict>
+		<key>Resources/king_b.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WAWKYGnYTyy9X9+xNFYZn87OxxiAc3Z3Twg5VJk/III=
+			</data>
+		</dict>
+		<key>Resources/king_b@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kLwXmTSM+AmEmbvDw5V2pRRLyjD3ZE1MVUChxO+DU7g=
+			</data>
+		</dict>
+		<key>Resources/king_b@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kL+sX+4/svc9cdmpaVlFXb/hyr2aQjXnd7waFYA0drk=
+			</data>
+		</dict>
+		<key>Resources/king_w.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xN7MfiKBqmul/oQ+QH5VVI4F1bbmcHZjE1APpyNK350=
+			</data>
+		</dict>
+		<key>Resources/king_w@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			njy0j4rKh5cyp5lEJkZ/ZyLqk+0BlvGadzrixOJPyow=
+			</data>
+		</dict>
+		<key>Resources/king_w@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lp0oauxjy9+rzhiYeJcIzpJe5Xnr1iQ4QZVHRp0+qko=
+			</data>
+		</dict>
+		<key>Resources/knight_b.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KJkFmLl/8yYYfskKsBFRuE185aCV4i9Yk8Twv4OQjKA=
+			</data>
+		</dict>
+		<key>Resources/knight_b@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8VmzE+qL3b/Zyw1+wq7ukLCqJoP8CdEhFRDfhtRJOmE=
+			</data>
+		</dict>
+		<key>Resources/knight_b@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ePx/TAq+GoZ35HQ9On0vXescRsBi8Cee3Z7qU5QOMvg=
+			</data>
+		</dict>
+		<key>Resources/knight_w.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jpV4YdBOnuvgOa8tnL4wW873bxdEnBWCzaGLl3EPE1U=
+			</data>
+		</dict>
+		<key>Resources/knight_w@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xSO5zIwC67co2CkDU3ds6CZw12g+unz+t7HYbzn4N9Q=
+			</data>
+		</dict>
+		<key>Resources/knight_w@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2w01lTlaTdVlXs2a1AqT/42xwtFHx5rYiPWRCkPDt8o=
+			</data>
+		</dict>
+		<key>Resources/pawn_b.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DV493s1IAdXgBITqupUZjSriQPw+u1yB9ITAid3fTCo=
+			</data>
+		</dict>
+		<key>Resources/pawn_b@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BqBMEmhIxv12RewER/OfRRPTJzsF9tvbm4jA2lIxBPI=
+			</data>
+		</dict>
+		<key>Resources/pawn_b@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OiO7kkHT/45NpSkPFtVxIZGFm+CAdosZOjTXqmKJ/nc=
+			</data>
+		</dict>
+		<key>Resources/pawn_w.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qEsEcqiMkfQW4z7l41DputmvXFBbf9MDkQuMf53kcW4=
+			</data>
+		</dict>
+		<key>Resources/pawn_w@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XTfuvU5X3AXH16kXPXCzSCTArl2EZIH+gHzjFAulVFY=
+			</data>
+		</dict>
+		<key>Resources/pawn_w@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lR4TBLv1In001JFPh7EWPYVeMYtelOHKuCtbjLZ6tFU=
+			</data>
+		</dict>
+		<key>Resources/queen_b.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2rsPZUSuYdm0ZtS0NeGynk3e1nCW+U9eurGk3Lg2X6w=
+			</data>
+		</dict>
+		<key>Resources/queen_b@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			skBPKKgXNlSfx9HUt8iFTiZSUeG4eqbyx15lyyaxzMs=
+			</data>
+		</dict>
+		<key>Resources/queen_b@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nT4SM5ukbNM6L7vHgyozrCYv9sdxZQUVnbYhrpNsNm8=
+			</data>
+		</dict>
+		<key>Resources/queen_w.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JipSisJSrRLUSBofh+iykkJTbEZZi7rQQoHMSou0cXk=
+			</data>
+		</dict>
+		<key>Resources/queen_w@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Afr/IDHNGjdLWQbV7EX85vWEBDzWU5bfSMjVZhw2Faw=
+			</data>
+		</dict>
+		<key>Resources/queen_w@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W0p0hfG05wp20fE4yy0jyOput0rK0UiJGR/T+xdYJKo=
+			</data>
+		</dict>
+		<key>Resources/rook_b.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zw6iFgIPckkYp9uplBIj3QBntHwTa5DT2cGXIe3x5WM=
+			</data>
+		</dict>
+		<key>Resources/rook_b@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uB0wdJ4lp663hbEG22R6vgJgU8AgJUy83aXYvPQrTNo=
+			</data>
+		</dict>
+		<key>Resources/rook_b@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UB8Ovwoj5/wt3Jb3IJgVf4q0jKhAwi0eh5X15XUyK2U=
+			</data>
+		</dict>
+		<key>Resources/rook_w.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kytgRwd+7JBHVRXWr5rNpADiZJVyqQ36zxcGINVdZDc=
+			</data>
+		</dict>
+		<key>Resources/rook_w@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ajWpuXUibEAvJ8NC6qP47s5c42vZ16o58TMfEyJ3oDY=
+			</data>
+		</dict>
+		<key>Resources/rook_w@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mNDkLdNtEhAz/1E8BorTRbpVXImJ+HUFWd4e5QHty+M=
 			</data>
 		</dict>
 	</dict>

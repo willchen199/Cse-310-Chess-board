@@ -3,7 +3,7 @@ using Orbit.Engine;
 
 namespace ChessApp;
 
-public static class MauiProgram // Run on mac using `dotnet build -t:Run -f net7.0-ios`
+public static class MauiProgram // Run on mac using `dotnet build -t:Run -f net7.0-maccatalyst`
 {
     public static MauiApp CreateMauiApp()
     {
