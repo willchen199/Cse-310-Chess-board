@@ -49,6 +49,21 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Remove="Resources\Images\bishop-b.svg" />
+      <None Remove="Resources\Images\bishop-w.svg" />
+      <None Remove="Resources\Images\king-b.svg" />
+      <None Remove="Resources\Images\king-w.svg" />
+      <None Remove="Resources\Images\knight-b.svg" />
+      <None Remove="Resources\Images\knight-w.svg" />
+      <None Remove="Resources\Images\pawn-b.svg" />
+      <None Remove="Resources\Images\pawn-w.svg" />
+      <None Remove="Resources\Images\queen-b.svg" />
+      <None Remove="Resources\Images\queen-w.svg" />
+      <None Remove="Resources\Images\rook-b.svg" />
+      <None Remove="Resources\Images\rook-w.svg" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
     </ItemGroup>
 
